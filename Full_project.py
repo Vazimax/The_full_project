@@ -1,5 +1,5 @@
 from First_project import odd_even_project
-from second_project import average_project
+from Second_project import average_project
 from Third_project import multiplication_project
 from Fourth_project import guess_project
 
